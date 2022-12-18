@@ -1,0 +1,9 @@
+form{
+    display: flex;
+    justify-content: center;
+}
+
+.submit{
+    display: flex;
+    justify-content: center;
+}
